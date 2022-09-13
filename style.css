@@ -34,21 +34,21 @@ float: left;
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 120px;
     text-align: center;
-    font-family: 'Didot', serif;
+    font-family: 'Yeseva One', serif;
 }
 
 h2 {
     font-size: 40px;
-    font-family: 'Didot', serif;
+    font-family: 'Crimson Text', serif;
 }
 
 
 section {
     padding: 40px 22%;
     overflow: auto;
-    font-family: 'Didot', serif;
+    font-family: 'Crimson Text', serif;
 }
 
 td {
@@ -73,5 +73,13 @@ td {
     width: 30%;
     border: 2px solid #756158;
     border-radius: 10px;
-    margin: 0% 1%;
+    margin: 0% 1% 5% 1%;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+    background-color: #799BAC
+    ;
 }
